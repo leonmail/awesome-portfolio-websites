@@ -30,7 +30,7 @@ const exp = [
     cardImage: "assets/images/experience-page/cuhk.png",
     place: "Chinese University of Hong Kong",
     time: "(Aug, 2013 - July, 2015)",
-    desp: "<li>Analyze media coverage of environmental issues in China and produce a policy report.</li>",
+    desp: "<li>Participate in five research and journalism projects.</li><li>help design and distribute online and onsite surveys, analyze large datasets, and conduct archival research.</li>",
   },
 ];
 
