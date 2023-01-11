@@ -14,7 +14,7 @@ const projects = [
   },
   {
     title: "Gendered Discipline of Platform Game Work in China",
-    cardImage: "assets/images/project-page/gender.jpg",
+    cardImage: "assets/images/project-page/gender.jpeg",
     description: "A longitudinal study of gender and digital gaming platforms.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "https://docs.google.com/presentation/d/1MpVbmgXBoFY6W1-JaZuArdaoLl3Pjyn7SCXKGotBGbU/edit?usp=sharing",
@@ -42,7 +42,7 @@ const projects = [
   },
   {
     title: "Coronavirus Diaries Overseas",
-    cardImage: "assets/images/project-page/diary.jpg",
+    cardImage: "assets/images/project-page/diary.png",
     description:
       "An incomplete coronavirus diary archive by the Chinese diaspora in the first half of 2020.",
     tagimg:
