@@ -72,7 +72,7 @@ const volunteershipcards = [
     title: "Co-founder of Penn Activism, Media and Education Group",
     cardImage: "assets/images/experience-page/ameg.jpg",
     description:
-      "(2022- ) Establish and organize this graduate student interest group on media activism and critical pedagogy.",
+      "(2022- ) Establish and organize the student interest group on media activism.",
   },
  {
     title: "Member of Liquid Dependencies Theory Collective",
