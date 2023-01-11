@@ -7,7 +7,7 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "Extra-Platform Intermediation in Chinese Video Game Services",
-    cardImage: "assets/images/project-page/netlike control.png",
+    cardImage: "assets/images/project-page/netlikecontrol.jpg",
     description: "A service supply chain mapping of live streaming, paid boosting and game companionship through in depth interviews and ethnography.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://docs.google.com/presentation/d/1yCB2fjlxWz_hjjrByc5xpESX6IrtVxPaA88CVciuzo4/edit?usp=sharing",
