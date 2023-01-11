@@ -6,28 +6,28 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Doctoral Fellow",
-    cardImage: "assets/images/experience-page/cdcs.jpg",
+    cardImage: "assets/images/experience-page/cdcs.jpeg",
     place: "The Center on Digital Culture and Society, UPenn",
     time: "(Aug, 2020 - present)",
     desp: "<li>Coordinate academic seminars and manage projects.</li> <li>Organize a workshop on digital labor.</li>",
   },
   {
     title: "Teaching Fellow",
-    cardImage: "assets/images/experience-page/upenn.png",
+    cardImage: "assets/images/experience-page/penn.png",
     place: "University of Pennsylvania",
     time: "(June, 2018 - July, 2022)",
     desp: "<li>Teach recitations of four undergraduate courses in communication and sociology.</li><li>Manage projects for two summer schools.</li>",
   },
   {
     title: "Researcher",
-    cardImage: "assets/images/experience-page/oxford.jpg",
+    cardImage: "assets/images/experience-page/oxford.png",
     place: "FORHEAD Project, Online",
     time: "(July, 2017 - March, 2018)",
     desp: "<li>Analyze media coverage of environmental issues in China and produce a policy report.</li>",
   },
   {
     title: "Research Assistant",
-    cardImage: "assets/images/experience-page/cuhk.jpg",
+    cardImage: "assets/images/experience-page/cuhk.png",
     place: "Chinese University of Hong Kong",
     time: "(Aug, 2013 - July, 2015)",
     desp: "<li>Analyze media coverage of environmental issues in China and produce a policy report.</li>",
