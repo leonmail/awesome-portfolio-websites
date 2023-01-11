@@ -11,7 +11,6 @@ const projects = [
     description: "A service supply chain mapping of live streaming, paid boosting and game companionship through in depth interviews and ethnography.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://docs.google.com/presentation/d/1yCB2fjlxWz_hjjrByc5xpESX6IrtVxPaA88CVciuzo4/edit?usp=sharing",
-    Githublink: "",
   },
   {
     title: "Gendered Discipline of Platform Game Work in China",
@@ -19,7 +18,7 @@ const projects = [
     description: "A longitudinal study of how gender affects the ways users and workers navigate and interact with digital gaming platforms and cybercafes.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "https://docs.google.com/presentation/d/1MpVbmgXBoFY6W1-JaZuArdaoLl3Pjyn7SCXKGotBGbU/edit?usp=sharing",
-    Githublink: "",
+   
   },
  
   {
@@ -30,16 +29,16 @@ const projects = [
     tagimg:
       "https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67",
     Previewlink: "https://www.instagram.com/liquiddependencies/?hl=en",
-    Githublink: "",
+   
   },
   {
     title: "Penn Activism, Media and Education Group",
-    cardImage: "assets/images/project-page/battery.png",
+    cardImage: "assets/images/project-page/ameg.png",
     description: "A graduate student interest group on media activism and critical pedagogy.",
     tagimg:
       "https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67",
     Previewlink: "https://www.instagram.com/pennameg/",
-    Githublink: "",
+    
   },
   {
     title: "Coronavirus Diaries Overseas",
@@ -49,7 +48,7 @@ const projects = [
     tagimg:
       "https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67",
     Previewlink: "https://coronavirus-diaries-overseas.gitbook.io/coronavirus-diaries-overseas/",
-    Githublink: "",
+   
   },
   
 ];
