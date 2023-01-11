@@ -62,4 +62,3 @@ const showCards2 = () => {
   );
   experiencecards.innerHTML = output;
 };
-document.addEventListener("DOMContentLoaded", showCards2);
