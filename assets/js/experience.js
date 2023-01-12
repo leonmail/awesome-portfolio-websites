@@ -86,7 +86,12 @@ const volunteershipcards = [
     description:
       "(2015- ) Publish dozens of longreads and commentaries on media, labor and social movements.",
   },
-  
+  {
+    title: "Freelance writer of the Paper",
+    cardImage: "assets/images/experience-page/paper.jpeg",
+    description:
+      "(2018- ) Publish dozens of longreads on labor, technology and US politics.",
+  },
   {
     title: "Editor and new media manager of CNPolitics",
     cardImage: "assets/images/experience-page/cnp.png",
